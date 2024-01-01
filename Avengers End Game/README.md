@@ -5,8 +5,7 @@
 ## Description
 
   > The legendary trio can't defeat thanos and his army alone!!!
-
-  > Can you bring back Sam and the others?
+> Can you bring back Sam and the others?
 
 - **Files**
 - [chal](./challenge/)
